@@ -455,15 +455,6 @@ Para reportar bugs ou solicitar funcionalidades:
 
 ## Autor
 
-**Fácil Tecnologia**
-- Sistema desenvolvido para gestão de contratos bancários
-- Data: 2024
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
-**Desenvolvido com dedicação pela equipe Fácil Tecnologia** ✨
-
+**Marco Aurélio Dias**
+- Sistema desenvolvido para gestão de contratos bancários em resposta a um teste solicitado pela Facil Tecnologia
+- Data: Novembro/2025
