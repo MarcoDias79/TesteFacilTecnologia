@@ -1,0 +1,49 @@
+# Arquivos de configuração sensíveis
+config.php
+.env
+
+# Logs e temporários
+*.log
+tmp/
+temp/
+cache/
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Sistema Operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Dependências (se usar Composer no futuro)
+vendor/
+composer.lock
+node_modules/
+package-lock.json
+
+# Uploads e arquivos gerados
+uploads/
+*.pdf
+*.xls
+*.xlsx
+
+# Backups
+*.bak
+*.backup
+*.sql.gz
+*.sql.zip
+
+# PHPStorm
+.phpunit.result.cache
